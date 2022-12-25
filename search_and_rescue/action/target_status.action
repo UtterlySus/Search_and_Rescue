@@ -1,0 +1,12 @@
+# Goal
+int32 x_coordinates
+int32 y_coordinates
+
+---
+# Result
+int32 x_coordinates
+int32 y_coordinates
+
+---
+# Feedback
+string target_status
