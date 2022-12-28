@@ -20,7 +20,7 @@ if you see 100% completed then everything is good!
 
 4- now we need to source catkin_ws by typing "source ~/catkin_ws/devel/setup.bash" in terminal
 
-5- go to line 96 and 133 in drones_mission file under search_and_rescue/src and adjust the absolute path for your device
+5- go to line 96, 133, 340 and 363 in drones_mission file under search_and_rescue/src and adjust the absolute path for your device
 
 6- do the same in line 36 of search_and_rescue/scripts/actions_server.py
 
