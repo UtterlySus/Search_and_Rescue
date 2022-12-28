@@ -4,7 +4,9 @@
 Welcome to our project!
 ----------------------
 
-please follow the below steps to execute the simulation correctly:
+firstly, please refer the IEEE paper to gain the understanding and kwonledge behind the project and the different details of the final results.
+
+then, follow the below steps to execute the simulation correctly:
 
 1- unzip the compressed file in https://files.fm/u/8qwbk26ss
 
@@ -26,9 +28,4 @@ if you see 100% completed then everything is good!
 
 the simulation will start after this, thanks!
 
-refrenced work:
-
-Can be found in the IEEE paper
-
-**all the above packages has been edited as needed inside the zip file in step 1
 
