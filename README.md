@@ -30,9 +30,7 @@ the simulation will start after this, thanks!
 
 refrenced work:
 
-https://github.com/RAFALAMAO/hector-quadrotor-noetic
-
-https://github.com/Tinker-Twins/Husk
+Can be found in the IEEE paper
 
 **all the above packages has been edited as needed inside the zip file in step 1
 
