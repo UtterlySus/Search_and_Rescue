@@ -1,7 +1,5 @@
 # Search_and_Rescue
 
-Shabib Aldossari and Ahmed Alharthi
-
 ----------------------
 Welcome to our project!
 ----------------------
