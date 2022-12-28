@@ -4,7 +4,7 @@
 Welcome to our project!
 ----------------------
 
-firstly, please refer the IEEE paper to gain the understanding and kwowledge behind the project and the different details of the final results.
+firstly, please refer the IEEE paper to gain the understanding and knowledge behind the project and the different details of the final results.
 
 then, follow the below steps to execute the simulation correctly:
 
