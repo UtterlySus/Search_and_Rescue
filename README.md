@@ -4,6 +4,9 @@
 Welcome to our project!
 ----------------------
 
+This work is an outcome of the course project of COE 510: Programming Methods for Robotics at KFUPM as part of master program in Robotics and Autonomous Intelligent Systems.
+
+
 Firstly, please refer the IEEE paper to gain the understanding and knowledge behind the project and the different details of the final results.
 
 then, follow the below steps to execute the simulation correctly:
